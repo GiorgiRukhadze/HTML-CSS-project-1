@@ -1,0 +1,15 @@
+@media screen and (max-width: 1024px) {
+   
+    .photo5 {
+       display: none;
+    
+    }
+    .pudi {
+        position: absolute;
+        width: 25%;
+        top: 270px;
+        left: 40%;
+    }
+   
+    
+}
