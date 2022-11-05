@@ -10,6 +10,120 @@
         top: 270px;
         left: 40%;
     }
-   
+}
+
+@media screen and (max-width: 480px) {
     
+    .header {
+        flex-wrap: wrap;
+    }
+    .air2 {
+        width: 350px;
+        height: 350px;
+        position: relative;
+        left: 350px;
+        top: 150px;
+    }
+    .great {
+        width: 770px;
+    }
+    .pudi {
+        position: absolute;
+        width: 45%;
+        top: 230px;
+        left: 65%;
+    }
+    .greatTXT {
+        position: absolute;
+        bottom: 200px;
+    }
+    .features {
+        width: 770px;
+    }
+    .photos2 {
+        width: 80px;
+    }
+    .AIRDSSMALL {
+        position: relative;
+        width: 500px;
+        height: 500px;
+        top: 100px;
+    }
+    .FAQcont {
+        width: 770px;
+    }
+    .xazi {
+        border-right: none;
+    }
+    .orderNOW {
+        display: flex;
+    }
+    .mainPhoto {
+        display: none;
+    }
+    .photo4 {
+        display: none;
+    }
+    .photo1 {
+        width: 380px;
+        height: 380px;
+    }
+    .price {
+        display: flex;
+        flex-wrap: nowrap;
+        position: relative;
+        left: 200px;
+    }
+    .c {
+        font-size: 20px;
+    }
+    .animation {
+        width: 150px;
+    }
+    #price5 {
+        font-size: 30px;
+    }
+    #x {
+        font-size: 20px;
+    }
+    #but5 {
+        font-size: 10px;
+    }
+    .textBig {
+        display: flex;
+        flex-direction: none;
+    }
+    .alp {
+        width: 770px;
+    }
+    .us1 {
+        text-align: center;
+    }
+    .contactCont {
+        width: 0%;
+        position: relative;
+        left: 360px;
+    }
+    .INPUTScont {
+        width: 0%;
+    }
+    .ffname {
+        position: relative;
+        left: 380px;
+    }
+    .ffname2 {
+        position: relative;
+        left: 190px;
+    }
+    .air7 {
+        display: none;
+    }
+    .air11 {
+        display: none;
+    }
+    .lv {
+       position: relative;
+       left: 270px;
+    }
+
 }
